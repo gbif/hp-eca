@@ -15,6 +15,5 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
+Welcome to the *ECA GBIF portal! Here you could find all publishers from the regions of [Europe and Central Asia](https://www.gbif.org/the-gbif-network/europe) and what data we publish.
 
-Welcome to the *ECA GBIF portal!
