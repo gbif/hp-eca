@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: Template_site
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
+title: Biodiversity in Europe and Central Asia
+description: Welcome to the GBIF ECA Hosted Portal 
 background: /assets/images/placeholders/templates/w1600h800.png
 imageLicense: None for this image
 height: 70vh
