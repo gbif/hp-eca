@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Biodiversity in Europe and Central Asia
+title: GBIF Europe and Central Asia
 description: Welcome to the GBIF ECA Hosted Portal 
 background: /assets/images/placeholders/templates/w1600h800.png
 imageLicense: None for this image
